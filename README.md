@@ -1,9 +1,14 @@
 # Python-Flask-Checkerboard
 Using flask to create a custom-sized checkerboard
 
-install flask using pip in your terminal (pip install Flask)
-in the root folder of this project, in your terminal, run "python server.py" in your virtual environment
-navigate to localhost:5000
+Install flask using pip in your terminal (pip install Flask) 
+
+Install/Run a virtual environment
+https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/
+
+In the root folder of this project, in your terminal, run "python server.py"
+
+Navigate to localhost:5000
 
 Your custom url will show the size of the checkerboard you wish to see, the default size is 8x8.
 
